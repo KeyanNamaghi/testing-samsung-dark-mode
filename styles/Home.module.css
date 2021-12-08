@@ -1,5 +1,14 @@
 .container {
   padding: 0 2rem;
+  background-color: #404040;
+}
+
+.qr {
+  background: #fff;
+  border: 20px solid #fff;
+  border-radius: 10px;
+  line-height: 0;
+  display: inline-flex;
 }
 
 .main {
