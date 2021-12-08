@@ -11,6 +11,13 @@
   display: inline-flex;
 }
 
+@media (prefers-color-scheme: dark) {
+  .qr {
+    background: #fff;
+    border: 20px solid #fff;
+  }
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
