@@ -7,6 +7,7 @@ class MyDocument extends Document {
         <Head>
           <meta name="theme-color" media="(prefers-color-scheme: dark)" />
           <meta name="theme-color" media="(prefers-color-scheme: light)" />
+          <meta name="color-scheme" content="light dark"></meta>
         </Head>
         <body onTouchStart="">
           <Main />
