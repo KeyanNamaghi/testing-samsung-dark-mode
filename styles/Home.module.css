@@ -17,7 +17,6 @@
 
 @media (prefers-color-scheme: dark) {
   .qr {
-    background: #0f0;
     color: red;
     border: 20px solid #fff;
   }
@@ -25,7 +24,6 @@
 
 @media (prefers-color-scheme: light) {
   .qr {
-    background: #f00;
     color: green;
     border: 20px solid #fff;
   }

@@ -5,8 +5,6 @@ class MyDocument extends Document {
     return (
       <Html lang="en-GB">
         <Head>
-          <meta name="theme-color" media="(prefers-color-scheme: dark)" />
-          <meta name="theme-color" media="(prefers-color-scheme: light)" />
           <meta name="color-scheme" content="light dark"></meta>
         </Head>
         <body onTouchStart="">
